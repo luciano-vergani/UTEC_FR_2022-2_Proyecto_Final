@@ -10,3 +10,4 @@
 ## Notas:
 - En Funciones.py estan contenidas funciones usadas en otros archivos para calcular DH, cinemática directa einversa, etc.
 - En meshmarkers.py esta conetnida una clase que nos permite mostrar modelos 3d en Rviz como marcadores
+- En modelos_3d estan los modelos .stl y .dae utilizados en el código
